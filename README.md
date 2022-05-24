@@ -1,2 +1,5 @@
 # Raices-de-funciones-no-lineales
-Método de Ridder, método de Hallet, algortimo de Lehmer-Schulz en complejos, método de Brent
+Método de Ridder
+Método de Halley
+Algortimo de Lehmer-Schulz en complejos
+Método de Brent
